@@ -1,0 +1,61 @@
+{
+    "LOGO_PATH": "",
+    "LOGOMARK_PATH": "",
+    "PROJECT_NAME": "Amorphic Sandbox",
+    "loginPage": {
+        "backgroundCover": "https://images.unsplash.com/photo-1635944095210-23114a1fb7c0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1035&q=80",
+        "heading": {
+            "en-US": "Amorphic"
+        },
+        "subHeading": {
+            "en-US": "Powering your data to analytics journey"
+        }
+    },
+    "registerPage": {
+        "backgroundCover": "",
+        "heading": {
+            "en-US": ""
+        },
+        "subHeading": {
+            "en-US": ""
+        }
+    },
+    "forgotPwdPage": {
+        "backgroundCover": "",
+        "heading": {
+            "en-US": ""
+        },
+        "subHeading": {
+            "en-US": ""
+        }
+    },
+    "forcePwdResetPage": {
+        "backgroundCover": "",
+        "heading": {
+            "en-US": ""
+        },
+        "subHeading": {
+            "en-US": ""
+        }
+    },
+    "setupMfaPage": {
+        "backgroundCover": "",
+        "heading": {
+            "en-US": ""
+        },
+        "subHeading": {
+            "en-US": ""
+        }
+    },
+    "verifyOtpPage": {
+        "backgroundCover": "",
+        "heading": {
+            "en-US": ""
+        },
+        "subHeading": {
+            "en-US": ""
+        }
+    },
+    "aliases": {
+    }
+}
