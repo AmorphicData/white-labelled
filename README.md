@@ -9,20 +9,40 @@ Config for white labelling amorphic sandbox account.
 ## Available amorphic logos & logo marks
 
 ### Healthcare
-<img src="https://media-hub.amorphicdata.io/verticals/healthcare/Logo.svg" width="400" />
-<img src="https://media-hub.amorphicdata.io/verticals/healthcare/LogoMark.svg" width="250" height="250" />
+| <img src="https://media-hub.amorphicdata.io/verticals/healthcare/Logo.svg" width="600" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/verticals/healthcare/Logo.svg* |
+
+| <img src="https://media-hub.amorphicdata.io/verticals/healthcare/LogoMark.svg" width="200" height="200" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/verticals/healthcare/LogoMark.svg* |
 
 ### Insurance
-<img src="https://media-hub.amorphicdata.io/verticals/insurance/Logo.svg" width="400" />
-<img src="https://media-hub.amorphicdata.io/verticals/insurance/LogoMark.svg" width="250" height="250" />
+| <img src="https://media-hub.amorphicdata.io/verticals/insurance/Logo.svg" width="600" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/verticals/insurance/Logo.svg* |
+
+| <img src="https://media-hub.amorphicdata.io/verticals/insurance/LogoMark.svg" width="200" height="200" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/verticals/insurance/LogoMark.svg* |
 
 ### Manufacturing
-<img src="https://media-hub.amorphicdata.io/verticals/manufacturing/Logo.svg" width="400" />
-<img src="https://media-hub.amorphicdata.io/verticals/manufacturing/LogoMark.svg" width="250" height="250" />
+| <img src="https://media-hub.amorphicdata.io/verticals/manufacturing/Logo.svg" width="600" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/verticals/manufacturing/Logo.svg* |
+
+| <img src="https://media-hub.amorphicdata.io/verticals/manufacturing/LogoMark.svg" width="200" height="200" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/verticals/manufacturing/LogoMark.svg* |
 
 ### Retail
-<img src="https://media-hub.amorphicdata.io/verticals/retail/Logo.svg" width="400" />
-<img src="https://media-hub.amorphicdata.io/verticals/retail/LogoMark.svg" width="250" height="250" />
+| <img src="https://media-hub.amorphicdata.io/verticals/retail/Logo.svg" width="600" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/verticals/retail/Logo.svg* |
+
+| <img src="https://media-hub.amorphicdata.io/verticals/retail/LogoMark.svg" width="200" height="200" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/verticals/retail/LogoMark.svg* |
 
 
 
