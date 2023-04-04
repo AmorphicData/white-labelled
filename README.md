@@ -44,5 +44,14 @@ Config for white labelling amorphic sandbox account.
 |:--:|
 | *https://media-hub.amorphicdata.io/verticals/retail/LogoMark.svg* |
 
+### Amorphic
+| <img src="https://media-hub.amorphicdata.io/logos/Logo-Blue-Flush.svg" width="600" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/logos/Logo-Blue-Flush.svg* |
+|:--:|
+| <img src="https://media-hub.amorphicdata.io/logos/Logo-Mark.svg" width="200" height="200" /> |
+|:--:|
+| *https://media-hub.amorphicdata.io/logos/Logo-Mark.svg* |
+
 
 
