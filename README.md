@@ -3,7 +3,7 @@ Config for white labelling amorphic sandbox account.
 
 ## Updating the config
 - Update the `configuration/customConfig.json` file with required changes
-- Verify changes are in effect by visting [this link](https://raw.githubusercontent.com/AmorphicData/white-labelled/main/customConfig.json)
+- Verify changes are in effect by visting [this link](https://raw.githubusercontent.com/AmorphicData/white-labelled/main/configuration/customConfig.json)
 - Reset the application state [here](https://sandbox.amorphicdata.cloud/reset)
 
 ## Background Images
