@@ -8,6 +8,8 @@ Config for white labelling amorphic sandbox account.
 
 ## Background Images
 - Visit [Unsplash](https://unsplash.com/) and search for a background images
+- Landscape images are preferred
+- Select the image of choice, when opened in larger view, right click on the image and select `Copy Image address` ( use this URL for background images )
 
 ## Available amorphic logos & logo marks
 
