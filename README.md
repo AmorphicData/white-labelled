@@ -9,20 +9,20 @@ Config for white labelling amorphic sandbox account.
 ## Available amorphic logos & logo marks
 
 ### Healthcare
-![Logo](https://media-hub.amorphicdata.io/verticals/healthcare/Logo.svg)
-![LogoMark](https://media-hub.amorphicdata.io/verticals/healthcare/LogoMark.svg)
-
-### Retail
-![Logo](https://media-hub.amorphicdata.io/verticals/retail/Logo.svg)
-![LogoMark](https://media-hub.amorphicdata.io/verticals/retail/LogoMark.svg)
-
-### Manufacturing
-![Logo](https://media-hub.amorphicdata.io/verticals/manufacturing/Logo.svg)
-![LogoMark](https://media-hub.amorphicdata.io/verticals/manufacturing/LogoMark.svg)
+<img src="https://media-hub.amorphicdata.io/verticals/healthcare/Logo.svg" width="400" />
+<img src="https://media-hub.amorphicdata.io/verticals/healthcare/LogoMark.svg" width="250" height="250" />
 
 ### Insurance
-![Logo](https://media-hub.amorphicdata.io/verticals/insurance/Logo.svg)
-![LogoMark](https://media-hub.amorphicdata.io/verticals/insurance/LogoMark.svg)
+<img src="https://media-hub.amorphicdata.io/verticals/insurance/Logo.svg" width="400" />
+<img src="https://media-hub.amorphicdata.io/verticals/insurance/LogoMark.svg" width="250" height="250" />
+
+### Manufacturing
+<img src="https://media-hub.amorphicdata.io/verticals/manufacturing/Logo.svg" width="400" />
+<img src="https://media-hub.amorphicdata.io/verticals/manufacturing/LogoMark.svg" width="250" height="250" />
+
+### Retail
+<img src="https://media-hub.amorphicdata.io/verticals/retail/Logo.svg" width="400" />
+<img src="https://media-hub.amorphicdata.io/verticals/retail/LogoMark.svg" width="250" height="250" />
 
 
 
